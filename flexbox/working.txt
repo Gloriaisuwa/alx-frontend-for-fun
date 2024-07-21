@@ -1,0 +1,71 @@
+git add 0-index.html
+git commit -m '0-index.html'
+git add 0-styles.css
+git commit -m '0-styles.css'
+git add 100-article.html
+git commit -m '100-article.html'
+git add 100-styles.css
+git commit -m '100-styles.css'
+git add 101-style.css
+git commit -m '101-style.css'
+git add 10-article.html
+git commit -m '10-article.html'
+git add 10-styles.css
+git commit -m '10-styles.css'
+git add 11-article.html
+git commit -m '11-article.html'
+git add 11-styles.css
+git commit -m '11-styles.css'
+git add 12-article.html
+git commit -m '12-article.html'
+git add 12-styles.css
+git commit -m '12-styles.css'
+git add 13-article.html
+git commit -m '13-article.html'
+git add 13-styles.css
+git commit -m '13-styles.css'
+git add 14-article.html
+git commit -m '14-article.html'
+git add 14-styles.css
+git commit -m '14-styles.css'
+git add 1-index.html
+git commit -m '1-index.html'
+git add 1-styles.css
+git commit -m '1-styles.css'
+git add 2-index.html
+git commit -m '2-index.html'
+git add 2-styles.css
+git commit -m '2-styles.css'
+git add 3-index.html
+git commit -m '3-index.html'
+git add 3-styles.css
+git commit -m '3-styles.css'
+git add 4-index.html
+git commit -m '4-index.html'
+git add 4-styles.css
+git commit -m '4-styles.css'
+git add 5-index.html
+git commit -m '5-index.html'
+git add 5-styles.css
+git commit -m '5-styles.css'
+git add 6-index.html
+git commit -m '6-index.html'
+git add 6-styles.css
+git commit -m '6-styles.css'
+git add 7-index.html
+git commit -m '7-index.html'
+git add 7-styles.css
+git commit -m '7-styles.css'
+git add 8-index.html
+git commit -m '8-index.html'
+git add 8-styles.css
+git commit -m '8-styles.css'
+git add 9-index.html
+git commit -m '9-index.html'
+git add 9-styles.css
+git commit -m '9-styles.css'
+git add images
+git commit -m 'images'
+git add README.md
+git commit -m 'README.md'
+
